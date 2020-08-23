@@ -2,8 +2,8 @@
 {
 
  "Account": {
-     "Username": "kopiabc7777",
-     "Password": "Amnet123@"
+     "Username": "username",
+     "Password": "password"
      },
  "Target Profit": "10000",
  "Target Win": "100000.00000000",
@@ -85,8 +85,8 @@
   ],
   "Auto Wd": {
        "Toggle": "Off",
-       "If Balance": "10000.00000000",
-       "Wallet Address": "129746310",
+       "If Balance": "0.00000000",
+       "Wallet Address": "wallet",
        "Amount": "6000.00000000"
       },
   "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
