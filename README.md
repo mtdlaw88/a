@@ -27,3 +27,16 @@ Install Semua Tool Yang dibutuhkan untuk menjalankan scryptnya
 * Sudo apt-get install wireshark
 
 Tunggu proses penginstallan selesai.
+
+# Step 4
+* wget https://github.com/mtdlaw88/Bot-999dice-Termux-Auto-Profit
+* cd Bot-999dice-Termux-Auto-Profit
+* nano config.json (untuk mengedit set user & pass)
+* start bet: python3 999dice.py
+
+
+Sumber by Jejaka Tutorial
+Pengembang by mtdlaw88
+
+Terima kasih
+
