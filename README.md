@@ -35,14 +35,14 @@ Tunggu proses penginstallan selesai.
 * start bet: python3 999dice.py
 
 
-#Sumber by Jejaka Tutorial
-
+#Thanks to Jejaka Tutorial
 #Pengembang mtdlaw88
 
 
 # DONASI 
 
-BTC 1MDDbWgDC2pSbqeSEeBDKveFzSopQHkkKp
-
-DOGE DDQSVjSxT3GMSwpxx9Pr5VKC4J8QJBDi3n
+BTC 
+1MDDbWgDC2pSbqeSEeBDKveFzSopQHkkKp
+DOGE 
+DDQSVjSxT3GMSwpxx9Pr5VKC4J8QJBDi3n
 
