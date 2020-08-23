@@ -35,8 +35,8 @@ Tunggu proses penginstallan selesai.
 * start bet: python3 999dice.py
 
 
-#Thanks to Jejaka Tutorial
-#Pengembang mtdlaw88
+# Thanks to 
+Jejaka Tutorial
 
 
 # DONASI 
