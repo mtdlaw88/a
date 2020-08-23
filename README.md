@@ -10,6 +10,7 @@ Agar peforma scrypt lebih optimal dan stabil, diwajibkan memiliki akun VPS (linu
 * pkg install update
 * pkg install upgrade
 * pkg install wget
+
 Kemudian Install ubuntu:
 * pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
 
