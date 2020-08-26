@@ -1,8 +1,5 @@
 # SCRYPT 999DICE AUTO PROFIT
 
-Harap diperhatikan, Script ini tidak untuk diperjual belikan.
-Silahkan dipergunakan dengan bijak tanpa ada kecurangan.
-
 # Cara Penggunaan
 Agar peforma scrypt lebih optimal dan stabil, diwajibkan memiliki akun VPS (linux/ubuntu)
 
@@ -33,10 +30,6 @@ Tunggu proses penginstallan selesai.
 * cd Bot-999dice-Termux-Auto-Profit
 * nano config.json (untuk mengedit set user & pass)
 * start bet: python3 999dice.py
-
-
-# Thanks to 
-Jejaka Tutorial
 
 
 # DONASI 
