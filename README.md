@@ -1,4 +1,4 @@
-# SCRYPT 999DICE AUTO PROFIT
+# By Tampu Bolon
 
 # Cara Penggunaan
 Agar peforma scrypt lebih optimal dan stabil, diwajibkan memiliki akun VPS (linux/ubuntu)
@@ -26,8 +26,8 @@ Install Semua Tool Yang dibutuhkan untuk menjalankan scryptnya
 Tunggu proses penginstallan selesai.
 
 # Step 4
-* wget https://github.com/mtdlaw88/Bot-999dice-Termux-Auto-Profit
-* cd Bot-999dice-Termux-Auto-Profit
+* git clone https://github.com/mtdlaw88/Script-999dice
+* cd Script-999dice
 * nano config.json (untuk mengedit set user & pass)
 * start bet: python3 999dice.py
 
