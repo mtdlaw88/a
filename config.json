@@ -51,7 +51,6 @@
               "If Lose": "1",
               "If Win": "3"
             }
-  ],
   "Auto Wd": {
        "Toggle": "ON",
        "If Balance": "1000",
