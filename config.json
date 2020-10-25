@@ -1,62 +1,39 @@
-
 {
 
  "Account": {
-     "Username": "username",
-     "Password": "password"
+     "Username": "999dice",
+     "Password": "999dice"
      },
- "Target Profit": "50",
- "Target Win": "100000.00000000",
- "Lose Target": "0.0000",
- "Interval": "20",
+ "Target Profit": "50.00000000",
+ "Target Win": "999999.00000000",
+ "Lose Target": "0",
+ "Interval": "10",
  "Config": [{
 
-     "Name Bet Set": "Mining ",
+     "Name Bet Set": "Mining",
      "Base Bet": "0.01",
      "Max Bet": "OFF",
-     "Chance": "49.90",
+     "Chance": "40",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "22",
-          "Max": "35"
-        },
-     "Bet": {
-          "Bet": "Low",
-          "Hi / Low": {
-              "Toggle": "ON",
-              "If Lose": "3",
-              "If Win": "5"
-            }
-        },
-     "If Win": "0.9",
-     "If Lose": "1.25",
-     "Reset If Win": "2",
-     "Reset If Profit": "2",
-     "Interval": "20"
-     },{
-
-     "Name Bet Set": "2",
-     "Base Bet": "0.01",
-     "Max Bet": "Off",
-     "Chance": "10",
-     "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "27",
+          "Min": "12",
           "Max": "45"
         },
      "Bet": {
-          "Bet": "Low",
+          "Bet": "Hi",
           "Hi / Low": {
-              "Toggle": "Off",
-              "If Lose": "1",
-              "If Win": "3"
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "4"
             }
-  "Auto Wd": {
-       "Toggle": "ON",
-       "If Balance": "1000",
-       "Wallet Address": "339825881",
-       "Amount": "1000"
-      },
-  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+        },
+     "If Win": "0.92",
+     "If Lose": "1.3",
+     "Reset If Win": "2",
+     "Reset If Profit": "OFF",
+     "Interval": "1"
+     }
+  ],
+  "User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.89 Mobile Safari/537.36"
 
 }
