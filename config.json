@@ -12,26 +12,26 @@
  "Config": [{
 
      "Name Bet Set": "Mining ",
-     "Base Bet": "0.0134",
+     "Base Bet": "0.01",
      "Max Bet": "OFF",
      "Chance": "49.90",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "49.90",
-          "Max": "49.95"
+          "Min": "22",
+          "Max": "35"
         },
      "Bet": {
           "Bet": "Low",
           "Hi / Low": {
               "Toggle": "ON",
-              "If Lose": "5",
-              "If Win": "3"
+              "If Lose": "3",
+              "If Win": "5"
             }
         },
      "If Win": "0.9",
-     "If Lose": "1.75",
-     "Reset If Win": "1",
-     "Reset If Profit": "1",
+     "If Lose": "1.25",
+     "Reset If Win": "2",
+     "Reset If Profit": "2",
      "Interval": "20"
      },{
 
@@ -85,9 +85,9 @@
   ],
   "Auto Wd": {
        "Toggle": "ON",
-       "If Balance": "100",
-       "Wallet Address": "339822067",
-       "Amount": "0"
+       "If Balance": "1000",
+       "Wallet Address": "339825881",
+       "Amount": "1000"
       },
   "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
 
