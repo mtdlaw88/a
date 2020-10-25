@@ -1,39 +1,44 @@
 {
-
- "Account": {
-     "Username": "999dice",
-     "Password": "999dice"
+"Account": {
+     "Username": "barulama",
+     "Password": "amnet123"
      },
- "Target Profit": "50.00000000",
- "Target Win": "999999.00000000",
- "Lose Target": "0",
- "Interval": "10",
+ "Target Profit": "100",
+ "Target Win": "100000.00000000",
+ "Lose Target": "0.0000",
+ "Interval": "20",
  "Config": [{
 
-     "Name Bet Set": "Mining",
+     "Name Bet Set": "Mining ",
      "Base Bet": "0.01",
      "Max Bet": "OFF",
-     "Chance": "40",
+     "Chance": "49.90",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "12",
-          "Max": "45"
+          "Min": "15",
+          "Max": "40"
         },
      "Bet": {
-          "Bet": "Hi",
+          "Bet": "Low",
           "Hi / Low": {
               "Toggle": "ON",
               "If Lose": "3",
-              "If Win": "4"
+              "If Win": "2"
             }
         },
-     "If Win": "0.92",
-     "If Lose": "1.3",
+     "If Win": "0.9",
+     "If Lose": "1.29",
      "Reset If Win": "2",
-     "Reset If Profit": "OFF",
-     "Interval": "1"
+     "Reset If Profit": "1.5",
+     "Interval": "20"
      }
-  ],
-  "User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.89 Mobile Safari/537.36"
-
+    ],   
+    "Auto Wd": {
+         "Toggle": "ON",
+         "If Balance": "1700",
+         "Wallet Address": "339825881",
+         "Amount": "500"
+    }, 
+    "User-Agent": "Android Phone"
 }
+    
