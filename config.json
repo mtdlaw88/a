@@ -59,24 +59,6 @@
      "Interval": "1"
      },{
 
-     "Name Bet Set": "3",
-     "Base Bet": "0.1",
-     "Max Bet": "OFF",
-     "Chance": "95",
-     "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "5",
-          "Max": "50"
-        },
-     "Bet": {
-          "Bet": "Hi",
-          "Hi / Low": {
-              "Toggle": "On",
-              "If Lose": "2",
-              "If Win": "3"
-            }
-        },
-     }
 
 
 
@@ -99,9 +81,6 @@
 
 
 
-
-
-  ],
   "Auto Wd": {
        "Toggle": "ON",
        "If Balance": "1000",
