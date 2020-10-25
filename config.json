@@ -76,12 +76,26 @@
               "If Win": "3"
             }
         },
-     "If Win": "0.6",
-     "If Lose": "5",
-     "Reset If Win": "3",
-     "Reset If Profit": "OFF",
-     "Interval": "10"
+
      }
+
+#THANKS TO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ],
   "Auto Wd": {
        "Toggle": "ON",
